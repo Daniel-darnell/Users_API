@@ -9,3 +9,6 @@
 ## TECHNOLOGIES
 * Django
 * Django Rest Framework
+
+## INSTALLATION AND RUNNING
+/home/boogie/Pictures/Screenshots/Screenshot from 2022-09-05 14-42-57.png
